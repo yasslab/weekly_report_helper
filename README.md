@@ -1,7 +1,7 @@
 Weekly Report Helper
 ====================
 
-### A ruby script that helps writing your weekly report by showing your commits within a week.
+### A ruby script that helps writing your weekly report by showing your commits and schedule within a week.
 
 ![Screenshot of Weekly Report Helper](http://dl.dropbox.com/u/2819285/wrh_ss.png)
 
