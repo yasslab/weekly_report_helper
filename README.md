@@ -13,10 +13,15 @@ Weekly Report Helper
 
 1. Replace settings in `config.json` with your own information.
 
-2. Type the following command.
+2. Check if you can run 1) gitlog and 2) gcal ruby scripts.
 
-   `ruby main.rb`
+   - `ruby gitlog_getter.rb`
+   - `ruby gcal_getter.rb`
 
-3. Then, you can get the summary for this week like this, which would help writing your weekly report.
+3. Type the following command.
+
+   `./main.sh`
+
+4. Then, you can get the summary for this week like this, which would help writing your weekly report.
 
    ![Screenshot of Weekly Report Helper](http://dl.dropbox.com/u/2819285/wrh_ss.png)
