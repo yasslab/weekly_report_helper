@@ -1,0 +1,7 @@
+{
+  "git_username": "YOUR_GIT_AUTHOR_NAME",
+  "git_since_time": "1.weeks",
+  "gcal_mail": "YOUR_GMAIL@gmail.com",
+  "gcal_pass": "YOUR_GMAIL_PASS",
+"gcal_feed": "http://www.google.com/calendar/feeds/YOUR_GMAIL%40gmail.com/private-HASH_VALUE/basic"
+}
