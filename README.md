@@ -17,8 +17,8 @@ Weekly Report Helper
 
 2. Check if you can run 1) gitlog and 2) gcal ruby scripts.
 
-   - `ruby gitlog_getter.rb`
-   - `ruby gcal_getter.rb`
+   1. `ruby gitlog_getter.rb`
+   2. `ruby gcal_getter.rb`
 
 3. Type the following command.
 
