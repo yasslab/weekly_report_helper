@@ -7,7 +7,9 @@ Weekly Report Helper
 
 ## Requirements
 
-- Google Calendar API `gem install gcalapi`
+- Google Calendar API
+
+   `gem install gcalapi`
 
 ## How to Run
 
