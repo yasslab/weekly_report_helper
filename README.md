@@ -28,6 +28,19 @@ Weekly Report Helper
 
    ![Screenshot of Weekly Report Helper](http://dl.dropbox.com/u/2819285/wrh_ss.png)
 
+## Why Weekly Report?
+
+It's because the following article makes sense to me and I really want to use such system.
+
+[Silicon Valley’s Productivity Secret](http://blog.idonethis.com/post/16736314554/silicon-valleys-productivity-secret)
+
+But the introduced system is not opensource. So I created this.
+
+## References
+
+- [Weekly Report Bot](https://github.com/yasulab/weekly-report-bot)
+- [Weekly Shit Report](https://gist.github.com/3175212)
+
 ## License
 
 (The MIT License)
