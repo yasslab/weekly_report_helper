@@ -38,7 +38,7 @@ But the introduced system is not opensource. So I created this.
 
 ## References
 
-- [Weekly Report Bot](https://github.com/yasulab/weekly-report-bot)
+- [Weekly Report Bot](https://github.com/yasulab/weekly_report_bot)
 - [Weekly Shit Report](https://gist.github.com/3175212)
 
 ## License
