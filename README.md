@@ -24,7 +24,7 @@ Weekly Report Helper
 
    `./main.sh`
 
-4. Then, you can get the summary!. You may also like to send it with [Weekly Report Sender](https://github.com/yasslab/weekly_report_sender) like this:
+4. Then, you can get the summary! You may also like to send it with [Weekly Report Sender](https://github.com/yasslab/weekly_report_sender) like this:
 
    ![Screenshot of Weekly Report Sender](https://raw.githubusercontent.com/yasslab/weekly_report_sender/master/wrs_ss.png)
 
